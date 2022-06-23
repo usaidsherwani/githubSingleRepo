@@ -1,10 +1,11 @@
 title: testuk1
 description: asdasdasdasdasdasdasd
 time: 40 minutes
-state: Draft
+state: draft
 authors:
   - usaidkhan
 steps:
+  - step1.md
 isDraft: true
 license: Apache
 isNew: true
