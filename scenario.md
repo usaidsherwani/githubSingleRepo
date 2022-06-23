@@ -1,4 +1,4 @@
-title: istiotesting6
+title: istiotesting7
 description: asdasdasdasdasdasdasd
 time: 40 minutes
 state: draft
@@ -10,7 +10,7 @@ steps:
 - step3.md
 - step4.md
 - step5.md
-isDraft: false
+isDraft: true
 license: Apache
 isNew: true
 isPremium: true
