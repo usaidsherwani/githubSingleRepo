@@ -1,19 +1,16 @@
-title: istiotesting9
-description: asdasdasdasdasdasdasd
-time: 40 minutes
-state: draft
 authors:
-  - usaidkhan
-steps:
-- step1.md
-- step2.md
-- step3.md
-- step4.md
-- step5.md
+image: ""
+description: Learn the basics of Golang errors.
 isDraft: true
-license: Apache
+state: draft
+environment: ""
+environmentvars: null
+isAvailable: true
 isNew: true
 isPremium: true
-isAvailable: true
 level: beginner
-thumbnail: https://brainarator.s3.amazonaws.com/new/istio.svg
+license: ""
+steps:
+thumbnail: https://brainarator.s3.amazonaws.com/go.svg
+time: 10 minutes
+title: test wm
