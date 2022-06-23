@@ -9,3 +9,7 @@ isPremium: true
 isAvailable: true
 level: beginner
 thumbnail: https://brainarator.s3.amazonaws.com/new/istio.svg
+state: draft
+isDraft: true
+authors:
+  - usaidkhan
