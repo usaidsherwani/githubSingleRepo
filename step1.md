@@ -14,3 +14,5 @@ Service mesh is a technology responsible for managing the network communication 
 Service mesh is an independent dedicated infrastructure layer for securely managing and observing network communication between the micro-units of an application. Istio is one of these tools that work on K8s.
 
 Let's jump on the hands-on part.
+
+{{
