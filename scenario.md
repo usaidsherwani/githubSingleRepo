@@ -1,17 +1,14 @@
-authors:
-  -usaidkhan
-image: ""
-description: Learn the basics of Golang errors.
-isDraft: true
+title: testuk1
+description: asdasdasdasdasdasdasd
+time: 40 minutes
 state: draft
-environment: ""
-environmentvars: null
-isAvailable: true
+authors:
+  - usaidkhan
+steps:
+isDraft: true
+license: Apache
 isNew: true
 isPremium: true
+isAvailable: true
 level: beginner
-license: ""
-steps:
-thumbnail: https://brainarator.s3.amazonaws.com/go.svg
-time: 10 minutes
-title: test wm
+thumbnail: https://brainarator.s3.amazonaws.com/new/istio.svg
