@@ -10,7 +10,7 @@ steps:
 - step3.md
 - step4.md
 - step5.md
-isDraft: true
+isDraft: false
 license: Apache
 isNew: true
 isPremium: true
