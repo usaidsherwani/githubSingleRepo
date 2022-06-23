@@ -1,4 +1,5 @@
 authors:
+  -usaidkhan
 image: ""
 description: Learn the basics of Golang errors.
 isDraft: true
