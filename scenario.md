@@ -5,7 +5,7 @@ state: draft
 authors:
   - usaidkhan
 steps:
-isDraft: true
+isDraft: false
 license: Apache
 isNew: true
 isPremium: true
