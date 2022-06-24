@@ -1,6 +1,6 @@
 title: testuk3
 description: asdasdasdasdasdasdasd
-time: 3 minutes
+time: 3 mminutes
 steps:
   - step1.md
 license: Apache
