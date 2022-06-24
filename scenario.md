@@ -1,6 +1,6 @@
-tiTle: testuk8
+title: testuk8
 description: asdasdasdasdasdasdasd
-time: 65 minutes
+time: 65 minute
 steps:
   - step1.md
 license: Apache
