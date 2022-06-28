@@ -1,5 +1,5 @@
-backendImage: ""
-description: An introduction to microservice and service mesh environment. Nowadays microservices are widely adopted but still, we need service mesh tools like Istio to overcome some limitations like network management, security.
+image: ""
+description: An introduction to microservice and service mesh environment.
 isAvailable: true
 isNew: false
 isPremium: true
