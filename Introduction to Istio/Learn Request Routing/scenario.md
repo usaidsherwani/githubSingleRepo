@@ -1,6 +1,5 @@
 title: Learn Request Routing
-description: One of the most used features of Istio is traffic management. It allows
-  us to control the network traffic on our microservice and add customized rules.
+description: One of the most used features of Istio is traffic management.
 time: 20 minutes
 level: expert
 steps:
