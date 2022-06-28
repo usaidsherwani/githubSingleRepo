@@ -10,7 +10,7 @@ steps:
 - step5.md
 license: ""
 isPremium: true
-isNew: false
+isNew: true
 isAvailable: true
 environmentvars: {}
 environment: terminal-editor
