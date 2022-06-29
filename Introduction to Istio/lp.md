@@ -5,15 +5,16 @@ description: >-
   usage of microservice approach to deploying the apps. In this learning path,
   we will see details of microservices and service mesh with the tools required
   to enhance the performance.
-draft: false
+isDraft: true
 isAvailable: true
 isNew: false
-isPremium: false
+isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios:
   - Installation and First Steps
   - Learn Request Routing
-state: approved
-thumbnail: https://brainarator.s3.amazonaws.com/new/pngs/istio.png
+state: draft
 title: Introduction to Istio
+authors:
+  - usaidkhan
