@@ -15,6 +15,6 @@ scenarios:
   - Installation and First Steps
   - Learn Request Routing
 state: draft
-title: Introduction to Istio
+title: Introduction to Istiouk10
 authors:
   - usaidkhan
