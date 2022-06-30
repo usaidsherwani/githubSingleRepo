@@ -1,7 +1,6 @@
 image: ""
 description: An Introductory scenario for Python developers to explore the basics of Docker Compose
 environment: ""
-environmentVars: null
 isNew: true
 isPremium: true
 level: beginner
