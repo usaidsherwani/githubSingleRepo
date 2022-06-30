@@ -14,6 +14,7 @@ scenarioCount: 2
 scenarios:
   - Installation and First Steps
   - Learn Request Routing
+  - Fast APIuk
 state: draft
 title: Introduction to Istiouk10
 authors:
