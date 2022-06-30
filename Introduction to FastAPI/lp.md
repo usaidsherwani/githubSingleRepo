@@ -6,15 +6,14 @@ scenarios:
 - What is Fastapi and what are its Key Features
 - Fast API Hello World
 - Path Operations
-state: approved
+state: draft
 license: Apache
-isNew: false
+isNew: true
 isPremium: true
 isAvailable: true
-authors: 
-- brainarator
-isDraft: false
+authors:
+- usaidkhan
+isDraft: true
 categories:
 - Python
 scenarioCount: 3
-thumbnail: https://brainarator.s3.amazonaws.com/new/pngs/python.png
