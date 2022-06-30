@@ -5,6 +5,7 @@ environmentVars: null
 isNew: true
 isPremium: true
 level: beginner
+isAvailable: true
 license: ""
 steps:
 - step1.md
