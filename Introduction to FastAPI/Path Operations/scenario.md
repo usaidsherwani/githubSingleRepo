@@ -1,13 +1,9 @@
-authors: 
-- brainarator
-backendImage: ""
+image: ""
 description: Using path operations to create APIs handling multiple paths
-isDraft: false
-isNew: false
+isNew: true
 isPremium: true
 level: beginner
 license: ""
-state: approved
 steps:
 - step1.md
 - step2.md
@@ -17,6 +13,5 @@ steps:
 - step6.md
 - step7.md
 - step8.md
-thumbnail: https://brainarator.s3.amazonaws.com/python.svg
 time: 20 minutes
 title: Path Operations
