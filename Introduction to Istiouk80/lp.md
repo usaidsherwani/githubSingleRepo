@@ -12,10 +12,10 @@ isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios:
-  - Installation and First Steps
-  - Learn Request Routing
-  - Fast APIuk
+  - Installation and First Stepsuk80
+  - Learn Request Routinguk80
+  - Fast APIuk80
 state: draft
-title: Introduction to Istiouk10
+title: Introduction to Istiouk80
 authors:
   - usaidkhan
