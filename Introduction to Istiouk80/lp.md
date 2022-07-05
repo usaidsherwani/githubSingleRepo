@@ -1,10 +1,7 @@
 categories:
   - Istio
 description:
-  With the increase in usage of containerized applications, there is sustainable
-  usage of microservice approach to deploying the apps. In this learning path,
-  we will see details of microservices and service mesh with the tools required
-  to enhance the performance.
+  With the increase in usage of containerized applications,
 isAvailable: true
 isNew: true
 isPremium: true
