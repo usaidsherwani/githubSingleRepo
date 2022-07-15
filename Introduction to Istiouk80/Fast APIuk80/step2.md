@@ -31,3 +31,4 @@ Get production-ready code. With automatic interactive documentation.
 Based on (and fully compatible with) the open standards for APIs: [OpenAPI](https://github.com/OAI/OpenAPI-Specification) (previously known as Swagger) and [JSON Schema](https://json-schema.org/).
 
 Some projects like [Netflix Dispatch](https://github.com/Netflix/dispatch) are built using FastAPI. Other tech giants such as Facebook, Microsoft and Uber also uses FastAPI to create production-ready REST APIs with few lines of code.
+{{
