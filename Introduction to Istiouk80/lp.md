@@ -8,6 +8,6 @@ isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios:
-  - .Learn Request Routinguk80
+  - Learn Request Routinguk80
   - Fast APIuk80
 title: Introduction to Istiouk80
