@@ -1,4 +1,4 @@
-title: .Learn Request Routinguk80
+title: Learn Request Routinguk80
 description: One of the most used features of Istio is traffic management.
 time: 20 minutes
 level: expert
