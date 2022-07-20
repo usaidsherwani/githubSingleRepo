@@ -7,7 +7,7 @@ level: expert
 license: ""
 steps:
 - step1.md
-- step2.md
+- lp.md
 - step3.md
 - step4.md
 - step5.md
