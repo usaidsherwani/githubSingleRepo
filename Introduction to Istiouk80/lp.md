@@ -10,4 +10,5 @@ scenarioCount: 2
 scenarios:
   - Learn Request Routinguk80
   - Fast APIuk80
+  - Installation and First Stepsuk80
 title: Introduction to Istiouk80
