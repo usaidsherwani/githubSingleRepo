@@ -1,6 +1,6 @@
 image: ""
 description: An introduction to microservice and service mesh environment.
-isAvailable: helo
+isAvailable: true
 isNew: true
 isPremium: true
 level: expert
